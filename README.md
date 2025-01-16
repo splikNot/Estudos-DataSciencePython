@@ -10,7 +10,7 @@ O curso é oferecido pela Universidade de Michigan através da plataforma do Cou
     └── exercicios/         # Em cada seção também estará disponivel exercícios de fixação.
   ├── datasets/             # Os datasets usados em cada seção estaram disponíveis no endereço a seguir.
     └── seção/              # Datasets organizados por seção do curso
-├── Projetos/               # Atividades desenvolvidas fora do curso
+├── projetos/               # Atividades desenvolvidas fora do curso
 └── README.md
 ```
 
