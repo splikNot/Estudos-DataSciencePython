@@ -1,1 +1,3 @@
-lol
+Já percebi que é uma má pratica não colocar os enunciados dos exercicios nos notebooks, o git não abriu powerpoint.
+
+Infelizmente, a melhor opção também é manter os datasets em algum lugar núvem, conforme eu trabalho com muitos dados fica ruim de subir para o git
