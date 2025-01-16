@@ -4,13 +4,13 @@ O curso é oferecido pela Universidade de Michigan através da plataforma do Cou
 
 
 ## Estrutura
-├── Curso/              # Essa especialização faz parte de um conjunto de 5 cursos.
+├── Curso/                  # Essa especialização faz parte de um conjunto de 5 cursos.
 
-  ├── Seção/            # Cada um dos cursos é separado em seções, cada seção possuí anotações no formato notebook
+  ├── Seção/                # Cada um dos cursos é separado em seções, cada seção possuí anotações no formato notebook
   
-    └── Exercicios/     # Em cada seção também estará disponivel exercícios de fixação.
+    └── Exercicios/         # Em cada seção também estará disponivel exercícios de fixação.
     
-  ├── datasets/         # Os datasets usados em cada seção estaram disponíveis no endereço logo a seguir.
+  ├── datasets/             # Os datasets usados em cada seção estaram disponíveis no endereço logo a seguir.
   
 └── README.md           
 
