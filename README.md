@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1PEsTsxAqi1Yf_4yrC24F65hCDBofeWT2?usp=sha
 
 ## Ferramentas
 Foram empregagas durante o curso ferramentas como:
-  *  python 3.8
+  *  Python 3.8
   *  Jupyter Notebooks
   *  Bibliotecas: numpy, regex, pandas, seaborn
 
