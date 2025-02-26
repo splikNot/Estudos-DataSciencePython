@@ -1,6 +1,6 @@
 # DataSciencePython
 Objetivo deste repositório é compartilhar meus estudos, progresso e evolução através do conjunto de Cursos para especializar na aplicação de DataScience.
-O curso é oferecido pela Universidade de Michigan através da plataforma do Coursera em: https://www.coursera.org/specializations/data-science-python
+O curso é oferecido pela Universidade de Michigan através da plataforma do Coursera em: [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
 
 ## Estrutura
@@ -16,7 +16,7 @@ O curso é oferecido pela Universidade de Michigan através da plataforma do Cou
 ```
 
 ## Datasets
-Durante o curso é usado datasets muito grandes. Por questão de armazenamento, os datasets estão armazenados na núvem no seguinte endereço: 
+Durante o curso é usado datasets muito grandes. Por questão de armazenamento, os datasets serão disponibizados na núvem e não nesse repositório: 
 
 https://drive.google.com/drive/folders/1PEsTsxAqi1Yf_4yrC24F65hCDBofeWT2?usp=sharing
 
